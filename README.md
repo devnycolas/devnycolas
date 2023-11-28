@@ -9,7 +9,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,ts,python,django" />
+    <img src="https://skillicons.dev/icons?i=python,django,js,ts,react,html,css" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,postgresql,docker" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,postgresql,docker,insomnia" />
   </a>
 </p>
 
