@@ -23,7 +23,7 @@
 
 ### 📊 Estatísticas
 
-<a href="https://github.com/felipealvescr" title="ilustração do mapeamento de linguagens">
+<a href="https://github.com/devnycolas" title="ilustração do mapeamento de linguagens">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devnycolas&theme=dracula&hide_langs_below=1" alt="languages ilustration"/>
 </a>
 
