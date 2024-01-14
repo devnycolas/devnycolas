@@ -3,7 +3,7 @@
 ## 👦 Olá, meu nome é <strong>Nycolas Brito!</strong>
 <h3> Entusiasta por tecnologia e programação!</h3>
 
-- 💼 Trabalhando como **Desenvolvedor Fullstack** no <strong>Ministério das Relações Exteriores.</strong>
+- 💼 2 anos como **Desenvolvedor Fullstack** no <strong>Ministério das Relações Exteriores.</strong>
 
 ## 🚀 Minhas Skills
 
