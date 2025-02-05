@@ -3,7 +3,7 @@
 ## 👦 Olá, meu nome é <strong>Nycolas Brito!</strong>
 <h3> Entusiasta por tecnologia e programação!</h3>
 
-- 💼 Atualmente, como **Desenvolvedor Fullstack** na <strong>G4F Soluções Corporativas LTDA.</strong> - 02/2024 - 01/2025
+- 💼 **Desenvolvedor Fullstack** na <strong>G4F Soluções Corporativas LTDA.</strong> - 02/2024 - 01/2025
 - 💼 2 anos como **Desenvolvedor Fullstack** no <strong>Ministério das Relações Exteriores.</strong>
 
 ## 🚀 Minhas Skills
