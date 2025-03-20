@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,postgresql,docker,kubernete" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,postgresql,docker,kubernete,jenkins" />
   </a>
 </p>
 
