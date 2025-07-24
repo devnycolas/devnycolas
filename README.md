@@ -3,8 +3,8 @@
 ## 👦 Olá, meu nome é <strong>Nycolas Brito!</strong>
 <h3> Entusiasta por tecnologia e programação!</h3>
 
-- 💼 **Desenvolvedor Fullstack** na <strong>G4F Soluções Corporativas LTDA.</strong> - 02/2024 - 03/2025
-- 💼 **Desenvolvedor Fullstack** na <strong>Atena.io</strong> - 01/2025 - 03/2025
+- 💼 **Desenvolvedor Fullstack** na <strong>G4F Soluções Corporativas LTDA.</strong> - 02/2024 - 05/2025
+- 💼 **Desenvolvedor Fullstack** na <strong>Atena.io</strong> - 04/2023 - 01/2024
 
 ## 🚀 Minhas Skills
 
